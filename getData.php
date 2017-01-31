@@ -1,3 +1,4 @@
+<?php
 function getDataSql(  $range ) {
 		$datetime_from = time() - $range;
 		$datetime_to   = time();
